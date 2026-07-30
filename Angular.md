@@ -142,10 +142,7 @@ Environment
 
 Docker
 
----
 
-
-Ja. Til et kompendium til svendeprøven vil jeg skrive det forholdsvis teknisk, men stadig let at forstå. Her er et forslag.
 
 ---
 
