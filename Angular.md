@@ -149,6 +149,11 @@ Ja. Til et kompendium til svendeprøven vil jeg skrive det forholdsvis teknisk, 
 
 ---
 
+Indholdsfortegnelse
+
+- [Indholdsfortegnelse](#Indholdsfortegnelse)
+
+---
 # Del 1 – Introduktion
 
 ## Angular
