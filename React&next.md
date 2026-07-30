@@ -1,12 +1,13 @@
 # 📘 React & Next.js Kompendium
 
-## Del 1 – Introduktion
+# Indholdsfortegnelse
 
-* Hvad er React?
-* Hvad er et bibliotek?
-* SPA vs MPA
-* Virtual DOM
-* React DOM
+- [Del 1 – Introduktion](#del-1--introduktion)
+  - [Hvad er React?](#hvad-er-react)
+  - [Hvad er et bibliotek?](#hvad-er-et-bibliotek)
+  - [SPA vs MPA](#spa-vs-mpa)
+  - [Virtual DOM](#virtual-dom)
+  - [React DOM](#react-dom)
 
 ---
 
