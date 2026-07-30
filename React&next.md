@@ -537,9 +537,4 @@ http://localhost:3000
 
 > **Tænk på React som et bibliotek, der fokuserer på UI, mens Next.js spiller en rolle, der minder mere om Angular som en komplet platform. Angular er stadig et mere omfattende framework med mange funktioner indbygget, mens Next.js bygger oven på React og samler de vigtigste værktøjer til moderne webudvikling.
 
-
-
-
-Build
-
 ---
