@@ -149,8 +149,10 @@ Vercel
 Docker
 
 
-Det er en rigtig god idé at starte React-delen med disse emner. De bygger oven på hinanden og giver en god introduktion, inden du begynder at skrive komponenter.
+---
+# Indholdsfortegnelse
 
+- [Indholdsfortegnelse](#Indholdsfortegnelse)
 ---
 
 # Del 1 – Introduktion
